@@ -75,6 +75,10 @@ inputs:
     required: false
     default: ''
     description: 'The android target API level.'
+  androidSdkManagerParameters:
+    required: false
+    default: ''
+    description: 'The parameters to run sdkmanager with.'
   sshAgent:
     required: false
     default: ''
