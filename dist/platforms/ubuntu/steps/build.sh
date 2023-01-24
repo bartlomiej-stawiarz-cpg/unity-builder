@@ -62,6 +62,8 @@ else
   #
 fi
 
+printenv
+
 #
 # Prepare Android SDK, if needed
 #
